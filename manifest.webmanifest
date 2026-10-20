@@ -1,0 +1,1 @@
+{"name":"MineWatch Ground Monitoring","short_name":"MineWatch","description":"Public ThingSpeak mine monitoring dashboard","start_url":"./index.html","display":"standalone","background_color":"#f5f7f4","theme_color":"#101b18","icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
